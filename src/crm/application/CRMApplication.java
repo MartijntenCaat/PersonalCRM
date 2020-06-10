@@ -1,4 +1,4 @@
-package PersonalCRM;
+package crm.application;
 
 import java.util.Scanner;
 

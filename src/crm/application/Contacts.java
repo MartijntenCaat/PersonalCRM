@@ -1,4 +1,4 @@
-package PersonalCRM;
+package crm.application;
 
 public class Contacts {
     private int id;
