@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBconnect {
-    private static String host = "jdbc:mysql://localhost:3306/crm";
-    private static String username = "root";
-    private static String password = "Welkom123!@#";
+    private static final String host = "jdbc:mysql://localhost:3306/crm";
+    private static final String username = "root";
+    private static final String password = "Welkom123!@#";
     private static String tableName = "contact";
 
     public DBconnect() {
